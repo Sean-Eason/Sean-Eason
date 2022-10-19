@@ -2,7 +2,6 @@
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning Smart Contract
 - 💞️ I’m looking to collaborate on contract audit
-- 📫 You can reach me with lovehouye@gmail.com
 
 <!---
 Sean-Eason/Sean-Eason is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
